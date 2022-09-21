@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h1 align="center">Hola👋 me llamo Luciano Fernandez (30 años)</h1>
+<h5 align="center">Soy estudiante del primer año de la carrera tecnicatura en desarrollo de software en la universidad provincial de ezeiza</h5>
 
 <!--
 **lucianofernandezok/lucianofernandezok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
